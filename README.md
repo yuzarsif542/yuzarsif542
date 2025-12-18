@@ -19,3 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/yuzarsif542/yuzarsif542/blob/output/github-contribution-grid-snake.gif)
